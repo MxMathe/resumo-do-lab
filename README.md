@@ -1,2 +1,4 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+1.Configuração e alteração da home do portal (layout, cores e idioma).
+2.Navegação dentro do portal.
+3.Serviços disponíveis: explicação sobre computação, rede e armazenamento. (Versão prévia, sem garantia.)
+
